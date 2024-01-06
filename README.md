@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! My name is Poonacha Cheppudira!<br>I am currently a sophomore CS major with an interest in Software Engineering and Data Science.<br>As a research assistant at the Data Analytics Center, I primarily work with Python.<br>However, I'm currently expanding my skillset to technologies and languages in full stack web development.<br>I'm actively seeking more internship opportunities, collaborative projects, and connections!<br><br>
+Hi there! My name is Poonacha Cheppudira!<br>I am currently a sophomore CS major with an interest in Software Engineering and Data Science.<br>As a research assistant at the Data Analytics Center, I primarily work with Python.<br>However, I'm currently expanding my skillset to technologies and languages in full stack web development.<br>I'm actively seeking more collaborative projects and connections!<br><br>
 
 
 ## 🌐 Socials:
